@@ -1,4 +1,4 @@
-# Week 1 -> Day 5 ->  Gen AI Basics, LLM and types, API Keys, Local Models
+# Week 2 -> Day 1 ->  Gen AI Basics, LLM and types, API Keys, Local Models
 
 ---
 ## Table of Contents
