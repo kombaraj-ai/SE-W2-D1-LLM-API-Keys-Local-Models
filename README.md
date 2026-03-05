@@ -10,10 +10,11 @@
     *   [OpenAI API Key](#openai-api-key)
     *   [OpenRouter API Key](#openrouter-api-key)
 *   [Pulling Models from HuggingFace](#pulling-models-from-huggingface)
+    *   [AI Model Serialization Formats: .safetensors vs .gguf vs .onnx](#ai-model-serialization-formats)
+        *   [Model Formats: Download & Usage Guide](#model-formats-download--usage-guide)
+        *   [Model Weights: In Layman terms](#model-weights-in-layman-terms)
 *   [Ollama: Run Models locally](#ollama-run-models-locally)
-*   [AI Model Serialization Formats: .safetensors vs .gguf vs .onnx](#ai-model-serialization-formats)
-    *   [Model Formats: Download & Usage Guide](#model-formats-download--usage-guide)
-    *   [Model Weights: In Layman terms](#model-weights-in-layman-terms)
+
 
 # Traditional AI vs Generative AI
 
